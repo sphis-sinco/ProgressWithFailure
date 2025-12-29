@@ -23,12 +23,14 @@
   "name":"ProgressWithFailure",
   "resources":[
     {"id":{"name":"obj_manager_game","path":"objects/obj_manager_game/obj_manager_game.yy",},},
+    {"id":{"name":"rm_","path":"rooms/rm_/rm_.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"roomId":{"name":"rm_","path":"rooms/rm_/rm_.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
